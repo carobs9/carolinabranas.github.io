@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Carolina Brañas # Title of your site
-url: "http://carolinabranas.github.io" # the base hostname & protocol for your site
+url: "https://carobs9.github.io/carolinabranas.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
